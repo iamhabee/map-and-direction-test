@@ -1,2 +1,2 @@
-export const accessToken = 'pk.eyJ1IjoiaGFiZWVob2xhMTgiLCJhIjoiY2tvN2V4cTk4MDl1dDJvbXViY3RmaWpjNCJ9.PWCF9XzLsCX5YrrU78p7MQ'
-export const apiKey = "AIzaSyAn7LX-0_Zd8DBdqGCGvmNW8abPZr9o5p8"
+export const accessToken = ''
+export const apiKey = ""

@@ -1,4 +1,4 @@
-Map And Diection is a simple react native mobile app
+Map And Direction is a simple react native mobile app
 below are the steps to clone and run on your local machine and test with either emulator or real devices that has GPS functionality
 
 Open your terminal on your local machine and run the following command
